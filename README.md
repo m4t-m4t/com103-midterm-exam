@@ -102,7 +102,7 @@ README.md          # Project documentation
 
 ## Author
 
-BSIT Student
+John Joram Carmelotes
 
 ---
 
